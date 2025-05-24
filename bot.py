@@ -3,9 +3,9 @@ import requests
 import json
 
 
-TELEGRAM_TOKEN = "8139914180:AAFYMgveI5W2QzhKGEVUfIdyLHqyi3-Pnoo"
+TELEGRAM_TOKEN = ""
 
-TEXTGEARS_API_KEY = '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'
+TEXTGEARS_API_KEY = ''
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
